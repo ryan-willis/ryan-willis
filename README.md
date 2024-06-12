@@ -5,7 +5,11 @@
 
 <h3 align="center">Personal Projects</h4>
 <div align="center">
+  <a href="https://github.com/ryan-willis/loan-wolf"><img src="https://gria.smug.af/repo/ryan-willis/loan-wolf" width="49%" /></a>
   <a href="https://github.com/ryan-willis/icon-workshop"><img src="https://gria.smug.af/repo/ryan-willis/icon-workshop" width="49%" /></a>
+
+<div align="center">
+  <a href="https://github.com/ryan-willis/lankey"><img src="https://gria.smug.af/repo/ryan-willis/lankey" width="49%"/></a>
   <a href="https://github.com/ryan-willis/netivity"><img src="https://gria.smug.af/repo/ryan-willis/netivity" width="49%"/></a>
 </div>
 
