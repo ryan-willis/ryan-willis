@@ -6,7 +6,8 @@
 <h3 align="center">Personal Projects</h4>
 <div align="center">
   <a href="https://github.com/ryan-willis/loan-wolf"><img src="https://gria.smug.af/repo/ryan-willis/loan-wolf" width="49%" /></a>
-  <a href="https://github.com/ryan-willis/icon-workshop"><img src="https://gria.smug.af/repo/ryan-willis/icon-workshop" width="49%" /></a>
+  <a href="https://github.com/ryan-willis/qotd"><img src="https://gria.smug.af/repo/ryan-willis/qotd" width="49%" /></a>
+</div>
 
 <div align="center">
   <a href="https://github.com/ryan-willis/lankey"><img src="https://gria.smug.af/repo/ryan-willis/lankey" width="49%"/></a>
@@ -14,8 +15,8 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/ryan-willis/icon-workshop"><img src="https://gria.smug.af/repo/ryan-willis/icon-workshop" width="49%" /></a>
   <a href="https://github.com/ryan-willis/gria"><img src="https://gria.smug.af/repo/ryan-willis/gria" width="49%" /></a>
-  <a href="https://github.com/ryan-willis/ful.pm"><img src="https://gria.smug.af/repo/ryan-willis/ful.pm" width="49%"/></a>
 </div>
 
 <p align="center">Dig these repo panels? Use <a href="https://github.com/ryan-willis/gria">gria</a> to include them in your own README.</p>
