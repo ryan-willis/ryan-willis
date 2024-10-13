@@ -16,12 +16,12 @@
 
 <div align="center">
   <a href="https://github.com/ryan-willis/icon-workshop"><img src="https://gria.smug.af/repo/ryan-willis/icon-workshop" width="49%" /></a>
-  <a href="https://github.com/ryan-willis/gria"><img src="https://gria.smug.af/repo/ryan-willis/gria" width="49%" /></a>
+  <a href="https://github.com/ryan-willis/confik"><img src="https://gria.smug.af/repo/ryan-willis/confik" width="49%" /></a>
 </div>
 
 <p align="center">Dig these repo panels? Use <a href="https://github.com/ryan-willis/gria">gria</a> to include them in your own README.</p>
 
-<h3 align="center">Notable Contributions</h4>
+<h3 align="center">Notable Open Source Contributions</h4>
 <div align="center">
   <a href="https://github.com/vlang/v"><img src="https://gria.smug.af/repo/vlang/v" width="49%" /></a>
 </div>
